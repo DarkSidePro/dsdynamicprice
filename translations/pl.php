@@ -1,5 +1,12 @@
 <?php
-
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * <DARK SIDE TEAM> wrote this file. As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
+ * ----------------------------------------------------------------------------
+ */
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{dsdynamicprice}prestashop>add-range_694e8d1f2ee056f98ee488bdc4982d73'] = 'Ilość';
